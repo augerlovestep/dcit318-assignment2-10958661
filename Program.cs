@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
+using abstraction;
 using inheritance;
 
 public class Program
@@ -15,5 +16,12 @@ public class Program
         animal.MakeSound();
         dog.MakeSound();
         cat.MakeSound();
+
+        Circle newCircle = new Circle(6.5);
+        Rectangle newRectange = new Rectangle(3, 5);
+
+        Console.WriteLine(newCircle.GetArea());
+        Console.WriteLine(newRectange.GetArea());
+
     }
 }
