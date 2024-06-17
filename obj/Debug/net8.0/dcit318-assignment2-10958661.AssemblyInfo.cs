@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dcit318-assignment2-10958661")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42fb53755cb6acbd37885d96e914df56d9b2fa8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87ca9884b082c46bb33493a1917391b4678ca449")]
 [assembly: System.Reflection.AssemblyProductAttribute("dcit318-assignment2-10958661")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dcit318-assignment2-10958661")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

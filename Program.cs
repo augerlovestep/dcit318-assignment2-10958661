@@ -3,6 +3,7 @@
 
 using abstraction;
 using inheritance;
+using interface_demo;
 
 public class Program
 {
@@ -22,6 +23,12 @@ public class Program
 
         Console.WriteLine(newCircle.GetArea());
         Console.WriteLine(newRectange.GetArea());
+
+        Car newCar = new Car();
+        Bicycle bicycle = new Bicycle();
+
+        newCar.Move();
+        bicycle.Move();
 
     }
 }
